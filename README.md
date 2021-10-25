@@ -1,6 +1,6 @@
 ### Hello, I'm Calixt Charlebois (CJ)
 
-- 👨‍🎓 I'm Currently a Software Engineering Student at Milwaukee School of Engineering
+- 👨‍🎓 I'm a Software Engineering Student at Milwaukee School of Engineering
 - 🤖 I’m Currently Learning to Write Scripts in java using the Dreambot Framework.
 - 🔗 I’m Actively Looking to Land a Software Engineering Internship in the Summer of 2022.
 - ⚡ 2021 Goal: Code all 365 days!
