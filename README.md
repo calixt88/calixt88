@@ -1,12 +1,11 @@
 ### Hello, I'm Calixt Charlebois (CJ)
 
-- 🔭 I'm Currently a Software Engineering Student at Milwaukee School of Engineering
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 
+- 👨‍🎓 I'm Currently a Software Engineering Student at Milwaukee School of Engineering
+- 🤖 I’m currently learning to script in java using the Dreambot framework.
+- 🔗 I’m looking to land a software engineering internship in the summer of 2022.
 - ⚡ 2021 Goals: 
 
-### Connect with me:
+### How to Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -34,11 +33,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+
 <!--END_SECTION:activity-->
 
 <
