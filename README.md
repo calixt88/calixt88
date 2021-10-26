@@ -10,6 +10,7 @@
 www.github.com/calixt88 
 
 https://www.linkedin.com/in/calixt-charlebois-cj-3949841b9/
+
 calixtcharlebois@gmail.com
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
