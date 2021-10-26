@@ -7,7 +7,8 @@
 
 ### How to Connect with me:
 
-www.github.com/calixt88
+www.github.com/calixt88 
+
 https://www.linkedin.com/in/calixt-charlebois-cj-3949841b9/
 calixtcharlebois@gmail.com
 
