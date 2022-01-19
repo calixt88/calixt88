@@ -3,7 +3,7 @@
 - 👨‍🎓 I'm a Software Engineering Student at Milwaukee School of Engineering
 - 🤖 I’m Currently Learning to Write Scripts in java using the Dreambot Framework.
 - 🔗 I’m Actively Looking to Land a Software Engineering Internship in the Summer of 2022.
-- ⚡ 2021 Goal: Code all 365 days!
+- ⚡ 2022 Goal: Code all 365 days!
 
 ### How to Connect with me:
 
