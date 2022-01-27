@@ -1,8 +1,8 @@
 ### Hello, I'm Calixt Charlebois (CJ)
 
 - 👨‍🎓 I'm a Software Engineering Student at Milwaukee School of Engineering
-- 🤖 I’m Currently Learning to Write Video Game Scripts in java using the Dreambot Framework.
-- 🔗 I’m currently a Software Engineering Intern at ITW.
+- 🤖 I’m actively Learning to Write Video Game Scripts in java using the Dreambot Framework.
+- 🔗 I’m Currently a Software Engineering Intern at ITW.
 - ⚡ 2022 Goal: Create 5 Meaningful Projects.
 
 ### How to Connect with me:
