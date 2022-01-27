@@ -1,9 +1,9 @@
 ### Hello, I'm Calixt Charlebois (CJ)
 
 - 👨‍🎓 I'm a Software Engineering Student at Milwaukee School of Engineering
-- 🤖 I’m Currently Learning to Write Scripts in java using the Dreambot Framework.
-- 🔗 I’m a Software Engineering Intern at Miller Electric.
-- ⚡ 2022 Goal: Code all 365 days!
+- 🤖 I’m Currently Learning to Write Video Game Scripts in java using the Dreambot Framework.
+- 🔗 I’m currently a software engineering intern at ITW.
+- ⚡ 2022 Goal: Create 5 Meaningful Projects.
 
 ### How to Connect with me:
 
