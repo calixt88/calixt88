@@ -1,7 +1,7 @@
 ### Hello, I'm Calixt Charlebois (CJ)
 
 - 👨‍🎓 I'm a Software Engineering Student at Milwaukee School of Engineering
-- 🤖 I’m actively creating a platformer game in Java called "Project Omoton"
+- 🤖 I’m actively creating a program to lock in characters for Valorant.
 - 🔗 I’m Currently a Software Engineering Intern at Miller Electric.
 - ⚡ 2023 Goal: Create 5 Meaningful Projects.
 
