@@ -7,7 +7,7 @@
 
 www.github.com/calixt88 
 
-https://www.linkedin.com/in/calixt-charlebois-cj-3949841b9/
+[https://www.linkedin.com/in/calixt-charlebois-cj-3949841b9/](https://www.linkedin.com/in/calixtcharlebois/)
 
 calixtcharlebois@gmail.com
 
