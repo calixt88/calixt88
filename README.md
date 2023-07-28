@@ -1,7 +1,7 @@
 ### Hello, I'm Calixt Charlebois (CJ)
 
-- 👨‍🎓 I'm a Software Engineering Student at Milwaukee School of Engineering
-- 🔗 I’m Currently a Software Engineering Intern at Miller Electric.
+- 👨‍🎓 I'm a Senior Software Engineering Student at Milwaukee School of Engineering
+- 🔗 I’m working for Miller Electric as a Software Engineering Intern.
 
 ### How to Connect with me:
 
