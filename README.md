@@ -1,7 +1,10 @@
 ### Hello, I'm Calixt Charlebois (CJ)
 
 -  I'm a Software Developer for Miller Electric.
--  I'm working on a personal platformer game using Godot.
+-  I'm working on a few different personal projects.
+  - [Devfolio Website]()
+  - [Remote Desktop Application]()
+  - [2D Platformer using Godot]()
 
 ### How to Connect with me:
 
